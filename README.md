@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/VictorLavin/BannerParaGitHub/refs/heads/main/banner.svg" width="100%" alt="Banner Synthwave">
 </p>
-## Hi there 👋
-
-
 <!--
 Here are some ideas to get you started:
 
