@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VictorLavin/BannerParaGitHub/refs/heads/main/banner.svg" width="100%" alt="Banner Synthwave">
+ <img src="https://raw.githubusercontent.com/VictorLavin/BannerParaGithub/main/banner.svg" width="100%" alt="Banner Synthwave">
 </p>
 
 <p>
