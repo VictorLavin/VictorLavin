@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.svg" alt="Víctor Lavín García · Full Stack Developer" width="100%">
+</p>
 <p>
 - 💼​ I’m currently working on a web project that helps people work on a healthier lifestyle. <br></br>
 - 🌱 I’m currently learning the bases of php as well as JavaScript, TypeScript, Vue and Node.js <br></br>
