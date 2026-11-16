@@ -4,8 +4,8 @@
 <p>
 - 💼​ I’m currently working on a web project that helps people who want a healthier lifestyle. <br></br>
 - 🌱 I’m currently learning the bases of php as well as JavaScript, TypeScript, Vue and Node.js <br></br>
-- 🤝🏻​ I’m looking to collaborate on projects that can help people with their daily lifes. <br></br>
-- 🤔 I’m looking forward to learning new programming languages such as python or C++, as well as improving my nowledge and technical skills. <br></br>
+- 🤝🏻​ I’m looking to collaborate on projects that can help people with their daily lives. <br></br>
+- 🤔 I’m looking forward to learning new programming languages such as python or C++, as well as improving my knowledge and technical skills. <br></br>
 - 📫 How to reach me: E-Mail: victorlg1802@gmail.com, Phone number: 623189280. <br></br>
 
 - 💼​ Actualmente estoy trabajando en una web que ayuda a las personas a conseguir una vida más sana. <br></br>
