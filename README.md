@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Víctor Lavín García · Full Stack Developer" width="100%">
+  ![Fira Code Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Proyecto+con+Fira+Code;Desarrollado+con+estilo)
 </p>
 <p>
 - 💼​ I’m currently working on a web project that helps people who want a healthier lifestyle. <br></br>
